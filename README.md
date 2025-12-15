@@ -1,2 +1,13 @@
-# Electroplating calculations
-This MATLAB code allows the calculation of theortical thickness, current efficiency, concertration and rate of plating all measured in the respective units. A table has been included of various metals that list their atomic weight, Density and valence bonds. Furthermore, files including the results obatined per my own experiment with how these results are achieve are also included. NOTICE changes to the MATLAB code are ongoing. 
+This project implements a parameterized MATLAB model to simulate electroplating processes. It calculates:
+
+The current needed to achieve a target plating thickness in a given time.
+
+The actual thickness from experimental mass measurements.
+
+The plating rate (µm/min) based on current and geometry.
+
+Optional plots of thickness versus time for visualization.
+
+The model uses Faraday’s law and standard electrochemistry formulas, and is designed to be scalable, modular, and easy to modify for different metals and geometries.
+
+Results obtained from carrying out the experiment have been included with images under an electron miroscope. 
