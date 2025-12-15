@@ -1,2 +1,2 @@
-# portfpolio
-This is a repository for my portfolio, where I will be uploading my projects. These projects will be made up of MATLAB and OPENFOAM with the focus being on Aeronautical engineering.
+# Electroplating calculations
+This MATLAB code allows the calculation of theortical thickness, current efficiency, concertration and rate of plating all measured in the respective units. A table has been included of various metals that included their atomic weight, Density and valence bonds. Furthermore, files including the results obatined per my own experiment with how these results are achieve are also included.  
